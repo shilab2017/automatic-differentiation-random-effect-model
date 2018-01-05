@@ -7,4 +7,4 @@ ADMB (version 11.5): http://www.admb-project.org/
 
 TMB (version 1.7.11): https://github.com/kaskr/adcomp/wiki
 
-The following R packages: R2admb, glmmTMB, doParallel, R.utils, pscl
+The following R packages, R2admb, glmmTMB, doParallel, R.utils, pscl, from CRAN: https://cran.r-project.org/
